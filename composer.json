@@ -9,10 +9,7 @@
             "email": "527852574@qq.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-        "php": ">=7.0.0"
-    },
+    "require": {}
     "autoload": {
         "psr-4": {
             "Hello\\": "src/hello"
