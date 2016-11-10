@@ -9,7 +9,7 @@
             "email": "527852574@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
     "autoload": {
         "psr-4": {
             "Hello\\": "src/hello"
