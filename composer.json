@@ -1,0 +1,21 @@
+{
+    "name": "lihui/hello-world",
+    "description": "This a demo for build composer packagist .",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lihui",
+            "email": "527852574@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/hello"
+        }
+    }
+}
