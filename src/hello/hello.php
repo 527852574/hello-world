@@ -4,7 +4,7 @@ namespace hello;
 
 class Hello
 {
-    public function hello(){
+    public function info(){
         echo "hello world!!";
     }
 }
